@@ -1,0 +1,15 @@
+{
+    "name": "franck/webstart_framework",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+        "filp/whoops": "^2.14",
+        "nesbot/carbon": "^2.64",
+        "fakerphp/faker": "^1.21"
+    }
+}
